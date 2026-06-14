@@ -6,3 +6,4 @@ plotly==5.19.0
 numpy
 pandas
 networkx==3.2.1
+matplotlib
