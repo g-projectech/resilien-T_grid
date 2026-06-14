@@ -1,0 +1,14 @@
+# --- CORE & UI ---
+streamlit==1.32.0
+plotly==5.19.0
+
+# --- MATH & DATA ENGINE ---
+numpy==1.26.4
+pandas==2.2.1
+networkx==3.2.1
+matplotlib==3.8.0
+
+# --- GEOSPATIAL & MAPS ---
+geopandas==0.14.3
+osmnx==1.9.1
+shapely==2.0.3
