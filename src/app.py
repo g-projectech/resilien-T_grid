@@ -9,7 +9,7 @@ import styles
 # 1. PAGE CONFIGURATION & REFINED THEME (DEEP SLATE)
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="Terna Grid Resilience AI",
+    page_title="Resilien-T Grid",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded"
