@@ -129,7 +129,7 @@ def apply_base_styles():
 
 def render_header(lang="it"):
     """
-    Renders the custom header for the Terna Grid Resilience AI dashboard.
+    Renders the custom header for the Resilien-T Grid dashboard.
     """
     subtitle = (
         "Architettura Graph Convolutional Network (GCN) nativa per la propagazione spettrale del rischio frana idrogeologico."
